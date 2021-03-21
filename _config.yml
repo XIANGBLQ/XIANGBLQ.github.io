@@ -22,10 +22,10 @@ permalink: pretty
 version: 1.0.0
 
 # About/contact
-author:
-  name: ratsgo
+author: 
+  name: xúnyì
   description: <strong>三嵗</strong> 性格卑劣，是个好人
-  gravatar: chare405@foxmail.com # md5 hash of your email address
+  gravatar:  # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/gichanglee/
     github:    https://github.com/ratsgo
@@ -50,7 +50,7 @@ tag_page: '/foryou/tags/'
 category_page: '/foryou/categories/'
 
 hero:
-  image: https://ratsgo.github.io/public/img/picture.JPG
+  image: https://ratsgo.github.io/public/img/picture.gif
   caption: Original Artwork &copy; Pablo Picasso. Girl before a Mirror. Boisgeloup, March 1932. Oil on canvas
 
 # Puglins
