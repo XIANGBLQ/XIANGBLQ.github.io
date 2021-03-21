@@ -40,14 +40,14 @@ nav:
     - '/'
   Contents:           
     - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
+    - { Categories: '/foryou/categories/' }
+    - { Tags: '/foryou/tags/' }
   About:          
     - '/about/'
 
 # Where are tags and categories displayed
-tag_page: '/blog/tags/'
-category_page: '/blog/categories/'
+tag_page: '/foryou/tags/'
+category_page: '/foryou/categories/'
 
 hero:
   image: https://ratsgo.github.io/public/img/picture.JPG
