@@ -1,8 +1,8 @@
 # Site Info
-title: ratsgo's blog
-tagline: 'for textmining'
-description: 'blog for textmining'
-url: http://ratsgo.github.io
+title: xúnyì’s 
+tagline: 'just for you'
+description: 'want to do something'
+url: http://xiangblq.github.io
 logo: '/public/logo.png'
 encoding: utf-8
 
@@ -25,7 +25,7 @@ version: 1.0.0
 author:
   name: ratsgo
   description: <strong>보물찾기</strong> 그리운 마을, 그 먼 바다에 이르기까지
-  gravatar: 0a638fc7996869b1b67fb90ccf77dcfe # md5 hash of your email address
+  gravatar: chare405@foxmail.com # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/gichanglee/
     github:    https://github.com/ratsgo
