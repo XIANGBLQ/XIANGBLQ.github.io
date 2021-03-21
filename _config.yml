@@ -39,7 +39,7 @@ nav:
   Home:           
     - '/'
   Contents:           
-    - '/blog/'
+    - '/foryou/'
     - { Categories: '/foryou/categories/' }
     - { Tags: '/foryou/tags/' }
   About:          
