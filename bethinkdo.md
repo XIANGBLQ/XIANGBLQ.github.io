@@ -1,9 +1,6 @@
 ---
 layout: page
 title: Be, Think, Do
-subtitle: Deeper Essays on Personal Development and Productivity
-author: Mike Sturm
-order: 3
 ---
 <div style="text-align:center"><img src ="{{site.url}}{{site.baseurl}}/assets/cover.jpg" /></div>.
 
