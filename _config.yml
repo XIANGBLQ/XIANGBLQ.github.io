@@ -43,7 +43,7 @@ nav:
     - { Categories: '/foryou/categories/' }
     - { Tags: '/foryou/tags/' }
   Bethinkdo: 
-    -'/bethinkdo/'
+    - '/bethinkdo/'
   About:          
     - '/about/'
 
