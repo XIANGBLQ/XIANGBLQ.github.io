@@ -1,11 +1,13 @@
 ---
 layout: page
-title: About
+title: 是什么人
 ---
 
 <div style="font-size: 0.9rem; font-weight:300; line-height: 1.6rem;">
 
-안녕하세요. 반갑습니다. 이기창이라고 합니다. 제 관심 분야는 다음과 같습니다.
+没有想到的，是自己竟然不知道如何来写这样一个About页面。
+
+是介绍自己呢？还是介绍博客？是想说一说什么样的话，还是有什么耐人寻味的看法。
 
 <p class="message" style="font-size: 0.9rem; font-weight: 700">
 Natural Language Processing, Linguistics, Machine Learning

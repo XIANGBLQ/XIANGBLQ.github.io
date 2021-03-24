@@ -2,8 +2,8 @@
 layout: page
 title: Be, Think, Do
 ---
-<div style="text-align:center"><img src ="{{site.url}}{{site.baseurl}}/assets/cover.jpg" /></div>.
 
+<div style="font-size: 0.9rem; font-weight:300; line-height: 1.6rem;">
 <!--
 ![BTD Cover]({{site.url}}{{site.baseurl}}/assets/cover.jpg)
 -->
@@ -36,3 +36,5 @@ Topics covered include:
 
 [hyperlink]: https://www.amazon.com/dp/B07MQS2YHD
 [image]: /assets/buy-book.png
+
+</div>
