@@ -27,9 +27,11 @@ author:
   description: <strong>三嵗</strong> 性格卑劣，是个好人
   gravatar:  # md5 hash of your email address
   contact:
-    linkedin:  https://www.linkedin.com/
-    github:    https://github.com
-    qq:  https://www.facebook.com/
+    book:  https://xiangblq.github.io/blog/
+    image:  https://xiangblq.github.io/gallery/
+    archive:  https://xiangblq.github.io/story/
+    commenting:  https://support.qq.com/products/315295?
+    globe:  http://timelineofearth.com/
     #facebook:  <hide>
     #weibo:    <hide>
     email:     mailto:chare405@foxmail.com
