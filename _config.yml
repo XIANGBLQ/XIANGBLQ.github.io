@@ -46,7 +46,7 @@ nav:
     - { Categories: '/foryou/categories/' }
     - { Tags: '/foryou/tags/' }
   Bethinkdo: 
-    - '/bethinkdo/'
+    - '/Friend/'
   About:          
     - '/about/'
 
