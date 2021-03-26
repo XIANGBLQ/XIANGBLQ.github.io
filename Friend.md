@@ -42,25 +42,25 @@ title:
 
 
 <h3 class="subtitle">
-<a href="https://www.leeyiding.com/">LeeYD BLOG/a>
+<a href="https://www.leeyiding.com/">LeeYD BLOG</a>
 </h3>
 比我小，但是比我优秀（当然，这一页面的都比我优秀得多）。
 
 
 <h3 class="subtitle">
-<a href="https://iobiji.com/">林尽欢/a>
+<a href="https://iobiji.com/">林尽欢</a>
 </h3>
 笔名尽欢，是个码农，好像喜欢打乒乓。
 
 
 <h3 class="subtitle">
-<a href="https://blog.zwying.com/">秦枫鸢梦/a>
+<a href="https://blog.zwying.com/">秦枫鸢梦</a>
 </h3>
 Veen Zhao，文章访问量惊人，主题很好看的。
 
 
 <h3 class="subtitle">
-<a href="https://iobiji.com/">林尽欢/a>
+<a href="https://iobiji.com/">林尽欢</a>
 </h3>
 笔名尽欢，是个码农。
 
