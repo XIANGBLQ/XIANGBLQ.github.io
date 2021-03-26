@@ -15,9 +15,11 @@ title:
 
 </div>
 
+<div style="font-size: 0.9rem; font-weight:300; line-height: 1.6rem;">
 <h4 class="subtitle">
 关于鄙人
 </h4>
+</div>
 
 &emsp;&emsp;Xunyi，ZHAO
 
@@ -29,7 +31,11 @@ title:
 
 &emsp;&emsp;热爱生活，是个好人。可能性格卑劣，让人不易亲近，所以尽量不要靠太近了，犹恐伤人
 
-#### 原《不一止集》上的话：
+<div style="font-size: 0.9rem; font-weight:300; line-height: 1.6rem;">
+<h4 class="subtitle">
+原《不一止集》上的话：
+</h4>
+</div>
 
 >摄影、书法、设计
 
@@ -59,7 +65,7 @@ title:
 
 家人朋友也会是吧，身体健康，热爱生活
 
-#### 声明
+#### **声明**
 
 <div style="font-size: 0.9rem; font-weight:300; line-height: 1.6rem;">
 本站所发布的文章均出自博主个人兴趣，无意、也永远不会用于商业用途。<br>
