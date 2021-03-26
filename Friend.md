@@ -61,31 +61,25 @@ Veen Zhao，文章访问量惊人，主题很好看的。
 
 
 <h3 class="subtitle">
-<a href="https://iobiji.com/">林尽欢</a>
-</h3>
-笔名尽欢，是个码农。
-
-
-<h3 class="subtitle">
-<a href="https://www.xiaofm.cn/">凡梦’s Blog/a>
+<a href="https://www.xiaofm.cn/">凡梦’s Blog</a>
 </h3>
 还是一个高中生，还是摄影师，我想想我高中的时候在做什么，好像很废。
 
 
 <h3 class="subtitle">
-<a href="https://moonster.life/">一去二三遥/a>
+<a href="https://moonster.life/">一去二三遥</a>
 </h3>
 一个想当摄影师却被迫写代码的厨子。
 
 
 <h3 class="subtitle">
-<a href="https://zmmio.com/">ZM沫/a>
+<a href="https://zmmio.com/">ZM沫</a>
 </h3>
 是个男人，自称养了两只猫咪。
 
 
 <h3 class="subtitle">
-<a href="https://ditou.org/">近视眼逛博客/a>
+<a href="https://ditou.org/">近视眼逛博客</a>
 </h3>
 我记得原来叫低头族，我想或许是低头上网太久，又回到近视眼逛博客了吧。
 
