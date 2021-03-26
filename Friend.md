@@ -32,7 +32,8 @@ title:
 <h3 class="subtitle">
 <a href="https://www.jdeal.cn/">Jdeal</a>
 </h3>
-现在好像在做新媒体运营了，和我以前做的差不多，他就想承接聊天业务赚点钱，他有什么罪？
+现在好像在做新媒体运营了，和我以前做的差不多，<br>
+他就想承接聊天业务赚点钱，他有什么罪？
 
 
 <h3 class="subtitle">
