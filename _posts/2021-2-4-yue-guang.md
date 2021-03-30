@@ -4,7 +4,7 @@ category: 诗文
 tag: [短歌, 诗文]
 ---
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=370 height=52 src="//music.163.com/outchain/player?type=2&id=191179&auto=1&height=32"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=370 height=52 src="//music.163.com/outchain/player?type=2&id=191179&auto=0&height=32"></iframe>
 
 你看今夜<br>
 美丽的月亮<br>
