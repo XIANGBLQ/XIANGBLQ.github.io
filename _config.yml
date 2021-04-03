@@ -50,6 +50,8 @@ nav:
     - '/Friend/'
   About:          
     - '/about/'
+  Colophon: 
+    - '/colophon/'
 
 # Where are tags and categories displayed
 tag_page: '/foryou/tags/'
