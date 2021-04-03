@@ -18,9 +18,9 @@ title:
 
 	table {
 		border-collapse: collapse; 
-		width: 150%;
+		width: 100%;
 		border: 0px;
-		margin-right: 300px;
+		margin-right: 150px;
 	}	
 
 	table td { border: 0px;
@@ -37,19 +37,19 @@ title:
 
 <table border="0" cellspacing="0" cellpadding="0"> 
 	<tr>
-		<td><a href="https://xiangblq.github.io/"><img src="https://xiangblq.github.io/public/img/XUNYI.png" alt='xúnyì’s' height = "250"></a></td>
+		<td><a href="https://xiangblq.github.io/"><img src="https://xiangblq.github.io/public/img/XUNYI.png" alt='xúnyì’s'></a></td>
 		<td><b>xúnyì’s | 念念不忘</b> 是主站页面，也就是个人博客页面，我在这个网站发布自己写的一些文章。如诗文、随笔、想法、杂文等。</td>
 	</tr>
 	<tr>
-		<td><a href="https://xiangblq.github.io/"><img src="https://xiangblq.github.io/public/img/NOTE.png" alt='Xúnyì’s Notes' height = "250"></a></td>
+		<td><a href="https://xiangblq.github.io/"><img src="https://xiangblq.github.io/public/img/NOTE.png" alt='Xúnyì’s Notes'></a></td>
 		<td><b>Xúnyì’s Notes</b> 则主要是学习笔记，整理自己在专业/业余等提升自己能力的过程中，所学习的知识，并做一些合适的阙疑。</td>
 	</tr>
 	<tr>
-		<td><a href="https://xiangblq.github.io/"><img src="https://xiangblq.github.io/public/img/PICSTORY.png" alt='PICSTORY' height = "250"></a></td>
+		<td><a href="https://xiangblq.github.io/"><img src="https://xiangblq.github.io/public/img/PICSTORY.png" alt='PICSTORY'></a></td>
 		<td><b>Picstory</b> — — Picture and Story ，是放自己拍摄/后期的一些图像和影像，当然有生活，有朋友，有家人，有悲欢喜乐，有看不见的时光匆匆就这样走过。</td>
 	</tr>
     <tr>
-		<td><a href="https://yesterlife.github.io/"><img src="https://xiangblq.github.io/public/img/YESTERLIFE.png" alt='YESTERLIFE' height = "250"></a></td>
+		<td><a href="https://yesterlife.github.io/"><img src="https://xiangblq.github.io/public/img/YESTERLIFE.png" alt='YESTERLIFE'></a></td>
 		<td><b>YESTERLIFE</b> 是原来的旧网站。</td>
 	</tr>
 </table>
