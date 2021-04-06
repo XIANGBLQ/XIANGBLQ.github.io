@@ -1,5 +1,5 @@
 ---
-title: 我希望我是雪
+title: 写一封信
 category: 诗文
 tag: [短歌, 诗文]
 ---
